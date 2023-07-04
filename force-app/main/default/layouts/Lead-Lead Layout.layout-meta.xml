@@ -66,6 +66,10 @@
                 <behavior>Edit</behavior>
                 <field>Demo_Checkbox__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Adi_Checkbox__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
